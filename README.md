@@ -4,3 +4,4 @@ Projects I've done regarding Numerical Analysis and Numerical Linear Algebra dur
 -  QR Decomposition of a Matrix
 -  Fourier Analysis for Periodic Functions
 -  Norms and Iterative Methods
+-  Dominant Eigenvalues and Dominant Eigenvectors
