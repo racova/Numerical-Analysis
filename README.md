@@ -5,3 +5,4 @@ Projects I've done regarding Numerical Analysis and Numerical Linear Algebra dur
 -  Fourier Analysis for Periodic Functions
 -  Norms and Iterative Methods
 -  Dominant Eigenvalues and Dominant Eigenvectors
+-  Numerical Integration
